@@ -1,4 +1,4 @@
-# insertionSort_Project
+# selectionSort_Project
 
 
 <a href='https://www.patika.dev/'>patika</a>
