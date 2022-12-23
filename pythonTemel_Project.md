@@ -2,7 +2,7 @@
 
 >input: &nbsp;&nbsp;&nbsp;[ [ 1, 'a', [ 'cat' ], 2 ], [ [ [ 3 ] ], 'dog' ], 4, 5 ]
 
->output:&nbsp;&nbsp;[ 1, ' a ', 'cat', 2, 3, 'dog', 4, 5 ]
+>output:&nbsp;&nbsp;[ 1, ' a ', 'cat', 2, 3, 'dog', 4, 5 ] 
 
 ```python
 
